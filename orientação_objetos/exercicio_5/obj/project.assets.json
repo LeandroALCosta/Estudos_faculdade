@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\exercicios\\orientação_objetos\\exercicio_5\\ex5.csproj",
+      "projectUniqueName": "C:\\Faculdade\\Estudos_faculdade\\orientação_objetos\\exercicio_5\\ex5.csproj",
       "projectName": "ex5",
-      "projectPath": "D:\\exercicios\\orientação_objetos\\exercicio_5\\ex5.csproj",
+      "projectPath": "C:\\Faculdade\\Estudos_faculdade\\orientação_objetos\\exercicio_5\\ex5.csproj",
       "packagesPath": "C:\\Users\\leand\\.nuget\\packages\\",
-      "outputPath": "D:\\exercicios\\orientação_objetos\\exercicio_5\\obj\\",
+      "outputPath": "C:\\Faculdade\\Estudos_faculdade\\orientação_objetos\\exercicio_5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\leand\\AppData\\Roaming\\NuGet\\NuGet.Config"

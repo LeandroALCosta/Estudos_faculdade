@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\exercicios\\recursividade\\exercicio_6\\ex6.csproj": {}
+    "C:\\Faculdade\\Estudos_faculdade\\recursividade\\exercicio_6\\ex6.csproj": {}
   },
   "projects": {
-    "D:\\exercicios\\recursividade\\exercicio_6\\ex6.csproj": {
+    "C:\\Faculdade\\Estudos_faculdade\\recursividade\\exercicio_6\\ex6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\exercicios\\recursividade\\exercicio_6\\ex6.csproj",
+        "projectUniqueName": "C:\\Faculdade\\Estudos_faculdade\\recursividade\\exercicio_6\\ex6.csproj",
         "projectName": "ex6",
-        "projectPath": "D:\\exercicios\\recursividade\\exercicio_6\\ex6.csproj",
+        "projectPath": "C:\\Faculdade\\Estudos_faculdade\\recursividade\\exercicio_6\\ex6.csproj",
         "packagesPath": "C:\\Users\\leand\\.nuget\\packages\\",
-        "outputPath": "D:\\exercicios\\recursividade\\exercicio_6\\obj\\",
+        "outputPath": "C:\\Faculdade\\Estudos_faculdade\\recursividade\\exercicio_6\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\leand\\AppData\\Roaming\\NuGet\\NuGet.Config"

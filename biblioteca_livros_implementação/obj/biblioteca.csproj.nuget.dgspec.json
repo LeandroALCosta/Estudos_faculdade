@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\exercicios\\biblioteca_livros_implementação\\biblioteca.csproj": {}
+    "C:\\Faculdade\\Estudos_faculdade\\biblioteca_livros_implementação\\biblioteca.csproj": {}
   },
   "projects": {
-    "D:\\exercicios\\biblioteca_livros_implementação\\biblioteca.csproj": {
+    "C:\\Faculdade\\Estudos_faculdade\\biblioteca_livros_implementação\\biblioteca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\exercicios\\biblioteca_livros_implementação\\biblioteca.csproj",
+        "projectUniqueName": "C:\\Faculdade\\Estudos_faculdade\\biblioteca_livros_implementação\\biblioteca.csproj",
         "projectName": "biblioteca",
-        "projectPath": "D:\\exercicios\\biblioteca_livros_implementação\\biblioteca.csproj",
+        "projectPath": "C:\\Faculdade\\Estudos_faculdade\\biblioteca_livros_implementação\\biblioteca.csproj",
         "packagesPath": "C:\\Users\\leand\\.nuget\\packages\\",
-        "outputPath": "D:\\exercicios\\biblioteca_livros_implementação\\obj\\",
+        "outputPath": "C:\\Faculdade\\Estudos_faculdade\\biblioteca_livros_implementação\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\leand\\AppData\\Roaming\\NuGet\\NuGet.Config"

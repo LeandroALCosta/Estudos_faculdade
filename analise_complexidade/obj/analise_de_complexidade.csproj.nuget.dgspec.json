@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\exercicios\\analise_complexidade\\analise_de_complexidade.csproj": {}
+    "C:\\Faculdade\\Estudos_faculdade\\analise_complexidade\\analise_de_complexidade.csproj": {}
   },
   "projects": {
-    "D:\\exercicios\\analise_complexidade\\analise_de_complexidade.csproj": {
+    "C:\\Faculdade\\Estudos_faculdade\\analise_complexidade\\analise_de_complexidade.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\exercicios\\analise_complexidade\\analise_de_complexidade.csproj",
+        "projectUniqueName": "C:\\Faculdade\\Estudos_faculdade\\analise_complexidade\\analise_de_complexidade.csproj",
         "projectName": "analise_de_complexidade",
-        "projectPath": "D:\\exercicios\\analise_complexidade\\analise_de_complexidade.csproj",
+        "projectPath": "C:\\Faculdade\\Estudos_faculdade\\analise_complexidade\\analise_de_complexidade.csproj",
         "packagesPath": "C:\\Users\\leand\\.nuget\\packages\\",
-        "outputPath": "D:\\exercicios\\analise_complexidade\\obj\\",
+        "outputPath": "C:\\Faculdade\\Estudos_faculdade\\analise_complexidade\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\leand\\AppData\\Roaming\\NuGet\\NuGet.Config"

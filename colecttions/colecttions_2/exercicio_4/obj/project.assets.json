@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\exercicios\\colecttions\\colecttions_2\\exercicio_4\\exercicio-4.csproj",
+      "projectUniqueName": "C:\\Faculdade\\Estudos_faculdade\\colecttions\\colecttions_2\\exercicio_4\\exercicio-4.csproj",
       "projectName": "exercicio-4",
-      "projectPath": "D:\\exercicios\\colecttions\\colecttions_2\\exercicio_4\\exercicio-4.csproj",
+      "projectPath": "C:\\Faculdade\\Estudos_faculdade\\colecttions\\colecttions_2\\exercicio_4\\exercicio-4.csproj",
       "packagesPath": "C:\\Users\\leand\\.nuget\\packages\\",
-      "outputPath": "D:\\exercicios\\colecttions\\colecttions_2\\exercicio_4\\obj\\",
+      "outputPath": "C:\\Faculdade\\Estudos_faculdade\\colecttions\\colecttions_2\\exercicio_4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\leand\\AppData\\Roaming\\NuGet\\NuGet.Config"

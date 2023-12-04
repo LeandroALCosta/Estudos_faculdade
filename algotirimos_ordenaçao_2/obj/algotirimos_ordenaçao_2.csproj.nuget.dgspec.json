@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\exercicios\\algotirimos_ordenaçao_2\\algotirimos_ordenaçao_2.csproj": {}
+    "C:\\Faculdade\\Estudos_faculdade\\algotirimos_ordenaçao_2\\algotirimos_ordenaçao_2.csproj": {}
   },
   "projects": {
-    "D:\\exercicios\\algotirimos_ordenaçao_2\\algotirimos_ordenaçao_2.csproj": {
+    "C:\\Faculdade\\Estudos_faculdade\\algotirimos_ordenaçao_2\\algotirimos_ordenaçao_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\exercicios\\algotirimos_ordenaçao_2\\algotirimos_ordenaçao_2.csproj",
+        "projectUniqueName": "C:\\Faculdade\\Estudos_faculdade\\algotirimos_ordenaçao_2\\algotirimos_ordenaçao_2.csproj",
         "projectName": "algotirimos_ordenaçao_2",
-        "projectPath": "D:\\exercicios\\algotirimos_ordenaçao_2\\algotirimos_ordenaçao_2.csproj",
+        "projectPath": "C:\\Faculdade\\Estudos_faculdade\\algotirimos_ordenaçao_2\\algotirimos_ordenaçao_2.csproj",
         "packagesPath": "C:\\Users\\leand\\.nuget\\packages\\",
-        "outputPath": "D:\\exercicios\\algotirimos_ordenaçao_2\\obj\\",
+        "outputPath": "C:\\Faculdade\\Estudos_faculdade\\algotirimos_ordenaçao_2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\leand\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\exercicios\\recursividade\\exercicio_3\\ex3.csproj",
+      "projectUniqueName": "C:\\Faculdade\\Estudos_faculdade\\recursividade\\exercicio_3\\ex3.csproj",
       "projectName": "ex3",
-      "projectPath": "D:\\exercicios\\recursividade\\exercicio_3\\ex3.csproj",
+      "projectPath": "C:\\Faculdade\\Estudos_faculdade\\recursividade\\exercicio_3\\ex3.csproj",
       "packagesPath": "C:\\Users\\leand\\.nuget\\packages\\",
-      "outputPath": "D:\\exercicios\\recursividade\\exercicio_3\\obj\\",
+      "outputPath": "C:\\Faculdade\\Estudos_faculdade\\recursividade\\exercicio_3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\leand\\AppData\\Roaming\\NuGet\\NuGet.Config"

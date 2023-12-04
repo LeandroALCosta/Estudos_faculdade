@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\exercicios\\colecttions_implementação\\colecttions_implementação.csproj": {}
+    "C:\\Faculdade\\Estudos_faculdade\\colecttions_implementação\\colecttions_implementação.csproj": {}
   },
   "projects": {
-    "D:\\exercicios\\colecttions_implementação\\colecttions_implementação.csproj": {
+    "C:\\Faculdade\\Estudos_faculdade\\colecttions_implementação\\colecttions_implementação.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\exercicios\\colecttions_implementação\\colecttions_implementação.csproj",
+        "projectUniqueName": "C:\\Faculdade\\Estudos_faculdade\\colecttions_implementação\\colecttions_implementação.csproj",
         "projectName": "colecttions_implementação",
-        "projectPath": "D:\\exercicios\\colecttions_implementação\\colecttions_implementação.csproj",
+        "projectPath": "C:\\Faculdade\\Estudos_faculdade\\colecttions_implementação\\colecttions_implementação.csproj",
         "packagesPath": "C:\\Users\\leand\\.nuget\\packages\\",
-        "outputPath": "D:\\exercicios\\colecttions_implementação\\obj\\",
+        "outputPath": "C:\\Faculdade\\Estudos_faculdade\\colecttions_implementação\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\leand\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\exercicios\\colecttions\\estruturas_lineares\\exercicio_7\\exercicio_7.csproj",
+      "projectUniqueName": "C:\\Faculdade\\Estudos_faculdade\\colecttions\\estruturas_lineares\\exercicio_7\\exercicio_7.csproj",
       "projectName": "exercicio_7",
-      "projectPath": "D:\\exercicios\\colecttions\\estruturas_lineares\\exercicio_7\\exercicio_7.csproj",
+      "projectPath": "C:\\Faculdade\\Estudos_faculdade\\colecttions\\estruturas_lineares\\exercicio_7\\exercicio_7.csproj",
       "packagesPath": "C:\\Users\\leand\\.nuget\\packages\\",
-      "outputPath": "D:\\exercicios\\colecttions\\estruturas_lineares\\exercicio_7\\obj\\",
+      "outputPath": "C:\\Faculdade\\Estudos_faculdade\\colecttions\\estruturas_lineares\\exercicio_7\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\leand\\AppData\\Roaming\\NuGet\\NuGet.Config"

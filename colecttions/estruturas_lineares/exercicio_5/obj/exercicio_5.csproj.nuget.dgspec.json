@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\exercicios\\colecttions\\estruturas_lineares\\exercicio_5\\exercicio_5.csproj": {}
+    "C:\\Faculdade\\Estudos_faculdade\\colecttions\\estruturas_lineares\\exercicio_5\\exercicio_5.csproj": {}
   },
   "projects": {
-    "D:\\exercicios\\colecttions\\estruturas_lineares\\exercicio_5\\exercicio_5.csproj": {
+    "C:\\Faculdade\\Estudos_faculdade\\colecttions\\estruturas_lineares\\exercicio_5\\exercicio_5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\exercicios\\colecttions\\estruturas_lineares\\exercicio_5\\exercicio_5.csproj",
+        "projectUniqueName": "C:\\Faculdade\\Estudos_faculdade\\colecttions\\estruturas_lineares\\exercicio_5\\exercicio_5.csproj",
         "projectName": "exercicio_5",
-        "projectPath": "D:\\exercicios\\colecttions\\estruturas_lineares\\exercicio_5\\exercicio_5.csproj",
+        "projectPath": "C:\\Faculdade\\Estudos_faculdade\\colecttions\\estruturas_lineares\\exercicio_5\\exercicio_5.csproj",
         "packagesPath": "C:\\Users\\leand\\.nuget\\packages\\",
-        "outputPath": "D:\\exercicios\\colecttions\\estruturas_lineares\\exercicio_5\\obj\\",
+        "outputPath": "C:\\Faculdade\\Estudos_faculdade\\colecttions\\estruturas_lineares\\exercicio_5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\leand\\AppData\\Roaming\\NuGet\\NuGet.Config"

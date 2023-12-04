@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\exercicios\\algoritimos_ordenação\\algoritimos_ordenação.csproj",
+      "projectUniqueName": "C:\\Faculdade\\Estudos_faculdade\\algoritimos_ordenação\\algoritimos_ordenação.csproj",
       "projectName": "algoritimos_ordenação",
-      "projectPath": "D:\\exercicios\\algoritimos_ordenação\\algoritimos_ordenação.csproj",
+      "projectPath": "C:\\Faculdade\\Estudos_faculdade\\algoritimos_ordenação\\algoritimos_ordenação.csproj",
       "packagesPath": "C:\\Users\\leand\\.nuget\\packages\\",
-      "outputPath": "D:\\exercicios\\algoritimos_ordenação\\obj\\",
+      "outputPath": "C:\\Faculdade\\Estudos_faculdade\\algoritimos_ordenação\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\leand\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\exercicios\\colecttions\\colecttions_2\\exercicio_2\\exercicio-2.csproj": {}
+    "C:\\Faculdade\\Estudos_faculdade\\colecttions\\colecttions_2\\exercicio_2\\exercicio-2.csproj": {}
   },
   "projects": {
-    "D:\\exercicios\\colecttions\\colecttions_2\\exercicio_2\\exercicio-2.csproj": {
+    "C:\\Faculdade\\Estudos_faculdade\\colecttions\\colecttions_2\\exercicio_2\\exercicio-2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\exercicios\\colecttions\\colecttions_2\\exercicio_2\\exercicio-2.csproj",
+        "projectUniqueName": "C:\\Faculdade\\Estudos_faculdade\\colecttions\\colecttions_2\\exercicio_2\\exercicio-2.csproj",
         "projectName": "exercicio-2",
-        "projectPath": "D:\\exercicios\\colecttions\\colecttions_2\\exercicio_2\\exercicio-2.csproj",
+        "projectPath": "C:\\Faculdade\\Estudos_faculdade\\colecttions\\colecttions_2\\exercicio_2\\exercicio-2.csproj",
         "packagesPath": "C:\\Users\\leand\\.nuget\\packages\\",
-        "outputPath": "D:\\exercicios\\colecttions\\colecttions_2\\exercicio_2\\obj\\",
+        "outputPath": "C:\\Faculdade\\Estudos_faculdade\\colecttions\\colecttions_2\\exercicio_2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\leand\\AppData\\Roaming\\NuGet\\NuGet.Config"
