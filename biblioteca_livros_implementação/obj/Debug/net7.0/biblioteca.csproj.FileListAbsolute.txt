@@ -1,0 +1,29 @@
+E:\aed\exercicios\biblioteca\bin\Debug\net7.0\biblioteca.exe
+E:\aed\exercicios\biblioteca\bin\Debug\net7.0\biblioteca.deps.json
+E:\aed\exercicios\biblioteca\bin\Debug\net7.0\biblioteca.runtimeconfig.json
+E:\aed\exercicios\biblioteca\bin\Debug\net7.0\biblioteca.dll
+E:\aed\exercicios\biblioteca\bin\Debug\net7.0\biblioteca.pdb
+E:\aed\exercicios\biblioteca\obj\Debug\net7.0\biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+E:\aed\exercicios\biblioteca\obj\Debug\net7.0\biblioteca.AssemblyInfoInputs.cache
+E:\aed\exercicios\biblioteca\obj\Debug\net7.0\biblioteca.AssemblyInfo.cs
+E:\aed\exercicios\biblioteca\obj\Debug\net7.0\biblioteca.csproj.CoreCompileInputs.cache
+E:\aed\exercicios\biblioteca\obj\Debug\net7.0\biblioteca.dll
+E:\aed\exercicios\biblioteca\obj\Debug\net7.0\refint\biblioteca.dll
+E:\aed\exercicios\biblioteca\obj\Debug\net7.0\biblioteca.pdb
+E:\aed\exercicios\biblioteca\obj\Debug\net7.0\biblioteca.genruntimeconfig.cache
+E:\aed\exercicios\biblioteca\obj\Debug\net7.0\ref\biblioteca.dll
+D:\minhas coisas\faculdade\1. materias\segundo periodo\aed\exercicios\biblioteca\bin\Debug\net7.0\biblioteca.exe
+D:\minhas coisas\faculdade\1. materias\segundo periodo\aed\exercicios\biblioteca\bin\Debug\net7.0\biblioteca.deps.json
+D:\minhas coisas\faculdade\1. materias\segundo periodo\aed\exercicios\biblioteca\bin\Debug\net7.0\biblioteca.runtimeconfig.json
+D:\minhas coisas\faculdade\1. materias\segundo periodo\aed\exercicios\biblioteca\bin\Debug\net7.0\biblioteca.dll
+D:\minhas coisas\faculdade\1. materias\segundo periodo\aed\exercicios\biblioteca\bin\Debug\net7.0\biblioteca.pdb
+D:\minhas coisas\faculdade\1. materias\segundo periodo\aed\exercicios\biblioteca\obj\Debug\net7.0\biblioteca.csproj.AssemblyReference.cache
+D:\minhas coisas\faculdade\1. materias\segundo periodo\aed\exercicios\biblioteca\obj\Debug\net7.0\biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+D:\minhas coisas\faculdade\1. materias\segundo periodo\aed\exercicios\biblioteca\obj\Debug\net7.0\biblioteca.AssemblyInfoInputs.cache
+D:\minhas coisas\faculdade\1. materias\segundo periodo\aed\exercicios\biblioteca\obj\Debug\net7.0\biblioteca.AssemblyInfo.cs
+D:\minhas coisas\faculdade\1. materias\segundo periodo\aed\exercicios\biblioteca\obj\Debug\net7.0\biblioteca.csproj.CoreCompileInputs.cache
+D:\minhas coisas\faculdade\1. materias\segundo periodo\aed\exercicios\biblioteca\obj\Debug\net7.0\biblioteca.dll
+D:\minhas coisas\faculdade\1. materias\segundo periodo\aed\exercicios\biblioteca\obj\Debug\net7.0\refint\biblioteca.dll
+D:\minhas coisas\faculdade\1. materias\segundo periodo\aed\exercicios\biblioteca\obj\Debug\net7.0\biblioteca.pdb
+D:\minhas coisas\faculdade\1. materias\segundo periodo\aed\exercicios\biblioteca\obj\Debug\net7.0\biblioteca.genruntimeconfig.cache
+D:\minhas coisas\faculdade\1. materias\segundo periodo\aed\exercicios\biblioteca\obj\Debug\net7.0\ref\biblioteca.dll

@@ -1,0 +1,15 @@
+E:\exercicios\lista_listadupla\exercicio_3\obj\Debug\net7.0\exercicio_3.csproj.AssemblyReference.cache
+E:\exercicios\lista_listadupla\exercicio_3\obj\Debug\net7.0\exercicio_3.GeneratedMSBuildEditorConfig.editorconfig
+E:\exercicios\lista_listadupla\exercicio_3\obj\Debug\net7.0\exercicio_3.AssemblyInfoInputs.cache
+E:\exercicios\lista_listadupla\exercicio_3\obj\Debug\net7.0\exercicio_3.AssemblyInfo.cs
+E:\exercicios\lista_listadupla\exercicio_3\obj\Debug\net7.0\exercicio_3.csproj.CoreCompileInputs.cache
+E:\exercicios\lista_listadupla\exercicio_3\bin\Debug\net7.0\exercicio_3.exe
+E:\exercicios\lista_listadupla\exercicio_3\bin\Debug\net7.0\exercicio_3.deps.json
+E:\exercicios\lista_listadupla\exercicio_3\bin\Debug\net7.0\exercicio_3.runtimeconfig.json
+E:\exercicios\lista_listadupla\exercicio_3\bin\Debug\net7.0\exercicio_3.dll
+E:\exercicios\lista_listadupla\exercicio_3\bin\Debug\net7.0\exercicio_3.pdb
+E:\exercicios\lista_listadupla\exercicio_3\obj\Debug\net7.0\exercicio_3.dll
+E:\exercicios\lista_listadupla\exercicio_3\obj\Debug\net7.0\refint\exercicio_3.dll
+E:\exercicios\lista_listadupla\exercicio_3\obj\Debug\net7.0\exercicio_3.pdb
+E:\exercicios\lista_listadupla\exercicio_3\obj\Debug\net7.0\exercicio_3.genruntimeconfig.cache
+E:\exercicios\lista_listadupla\exercicio_3\obj\Debug\net7.0\ref\exercicio_3.dll

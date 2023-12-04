@@ -1,0 +1,14 @@
+E:\exercicios\colections\segunda\exercicio-5\obj\Debug\net7.0\exercicio-5.GeneratedMSBuildEditorConfig.editorconfig
+E:\exercicios\colections\segunda\exercicio-5\obj\Debug\net7.0\exercicio-5.AssemblyInfoInputs.cache
+E:\exercicios\colections\segunda\exercicio-5\obj\Debug\net7.0\exercicio-5.AssemblyInfo.cs
+E:\exercicios\colections\segunda\exercicio-5\obj\Debug\net7.0\exercicio-5.csproj.CoreCompileInputs.cache
+E:\exercicios\colections\segunda\exercicio-5\bin\Debug\net7.0\exercicio-5.exe
+E:\exercicios\colections\segunda\exercicio-5\bin\Debug\net7.0\exercicio-5.deps.json
+E:\exercicios\colections\segunda\exercicio-5\bin\Debug\net7.0\exercicio-5.runtimeconfig.json
+E:\exercicios\colections\segunda\exercicio-5\bin\Debug\net7.0\exercicio-5.dll
+E:\exercicios\colections\segunda\exercicio-5\bin\Debug\net7.0\exercicio-5.pdb
+E:\exercicios\colections\segunda\exercicio-5\obj\Debug\net7.0\exercicio-5.dll
+E:\exercicios\colections\segunda\exercicio-5\obj\Debug\net7.0\refint\exercicio-5.dll
+E:\exercicios\colections\segunda\exercicio-5\obj\Debug\net7.0\exercicio-5.pdb
+E:\exercicios\colections\segunda\exercicio-5\obj\Debug\net7.0\exercicio-5.genruntimeconfig.cache
+E:\exercicios\colections\segunda\exercicio-5\obj\Debug\net7.0\ref\exercicio-5.dll

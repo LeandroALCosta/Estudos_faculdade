@@ -1,0 +1,14 @@
+D:\exercicios\colecttions\estruturas_lineares_flexiveis\exercicio_1\bin\Debug\net7.0\exercicio_1.exe
+D:\exercicios\colecttions\estruturas_lineares_flexiveis\exercicio_1\bin\Debug\net7.0\exercicio_1.deps.json
+D:\exercicios\colecttions\estruturas_lineares_flexiveis\exercicio_1\bin\Debug\net7.0\exercicio_1.runtimeconfig.json
+D:\exercicios\colecttions\estruturas_lineares_flexiveis\exercicio_1\bin\Debug\net7.0\exercicio_1.dll
+D:\exercicios\colecttions\estruturas_lineares_flexiveis\exercicio_1\bin\Debug\net7.0\exercicio_1.pdb
+D:\exercicios\colecttions\estruturas_lineares_flexiveis\exercicio_1\obj\Debug\net7.0\exercicio_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\exercicios\colecttions\estruturas_lineares_flexiveis\exercicio_1\obj\Debug\net7.0\exercicio_1.AssemblyInfoInputs.cache
+D:\exercicios\colecttions\estruturas_lineares_flexiveis\exercicio_1\obj\Debug\net7.0\exercicio_1.AssemblyInfo.cs
+D:\exercicios\colecttions\estruturas_lineares_flexiveis\exercicio_1\obj\Debug\net7.0\exercicio_1.csproj.CoreCompileInputs.cache
+D:\exercicios\colecttions\estruturas_lineares_flexiveis\exercicio_1\obj\Debug\net7.0\exercicio_1.dll
+D:\exercicios\colecttions\estruturas_lineares_flexiveis\exercicio_1\obj\Debug\net7.0\refint\exercicio_1.dll
+D:\exercicios\colecttions\estruturas_lineares_flexiveis\exercicio_1\obj\Debug\net7.0\exercicio_1.pdb
+D:\exercicios\colecttions\estruturas_lineares_flexiveis\exercicio_1\obj\Debug\net7.0\exercicio_1.genruntimeconfig.cache
+D:\exercicios\colecttions\estruturas_lineares_flexiveis\exercicio_1\obj\Debug\net7.0\ref\exercicio_1.dll

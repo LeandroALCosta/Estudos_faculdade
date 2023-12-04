@@ -1,0 +1,14 @@
+E:\exercicios\colections\estruturas_lineares\exercicio_1\obj\Debug\net7.0\exercicio_1.GeneratedMSBuildEditorConfig.editorconfig
+E:\exercicios\colections\estruturas_lineares\exercicio_1\obj\Debug\net7.0\exercicio_1.AssemblyInfoInputs.cache
+E:\exercicios\colections\estruturas_lineares\exercicio_1\obj\Debug\net7.0\exercicio_1.AssemblyInfo.cs
+E:\exercicios\colections\estruturas_lineares\exercicio_1\obj\Debug\net7.0\exercicio_1.csproj.CoreCompileInputs.cache
+E:\exercicios\colections\estruturas_lineares\exercicio_1\bin\Debug\net7.0\exercicio_1.exe
+E:\exercicios\colections\estruturas_lineares\exercicio_1\bin\Debug\net7.0\exercicio_1.deps.json
+E:\exercicios\colections\estruturas_lineares\exercicio_1\bin\Debug\net7.0\exercicio_1.runtimeconfig.json
+E:\exercicios\colections\estruturas_lineares\exercicio_1\bin\Debug\net7.0\exercicio_1.dll
+E:\exercicios\colections\estruturas_lineares\exercicio_1\bin\Debug\net7.0\exercicio_1.pdb
+E:\exercicios\colections\estruturas_lineares\exercicio_1\obj\Debug\net7.0\exercicio_1.dll
+E:\exercicios\colections\estruturas_lineares\exercicio_1\obj\Debug\net7.0\refint\exercicio_1.dll
+E:\exercicios\colections\estruturas_lineares\exercicio_1\obj\Debug\net7.0\exercicio_1.pdb
+E:\exercicios\colections\estruturas_lineares\exercicio_1\obj\Debug\net7.0\exercicio_1.genruntimeconfig.cache
+E:\exercicios\colections\estruturas_lineares\exercicio_1\obj\Debug\net7.0\ref\exercicio_1.dll

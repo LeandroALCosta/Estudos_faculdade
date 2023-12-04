@@ -1,0 +1,14 @@
+E:\exercicios\colecttions\estruturas_lineares\exercicio_6\obj\Debug\net7.0\exercicio_6.GeneratedMSBuildEditorConfig.editorconfig
+E:\exercicios\colecttions\estruturas_lineares\exercicio_6\obj\Debug\net7.0\exercicio_6.AssemblyInfoInputs.cache
+E:\exercicios\colecttions\estruturas_lineares\exercicio_6\obj\Debug\net7.0\exercicio_6.AssemblyInfo.cs
+E:\exercicios\colecttions\estruturas_lineares\exercicio_6\obj\Debug\net7.0\exercicio_6.csproj.CoreCompileInputs.cache
+E:\exercicios\colecttions\estruturas_lineares\exercicio_6\bin\Debug\net7.0\exercicio_6.exe
+E:\exercicios\colecttions\estruturas_lineares\exercicio_6\bin\Debug\net7.0\exercicio_6.deps.json
+E:\exercicios\colecttions\estruturas_lineares\exercicio_6\bin\Debug\net7.0\exercicio_6.runtimeconfig.json
+E:\exercicios\colecttions\estruturas_lineares\exercicio_6\bin\Debug\net7.0\exercicio_6.dll
+E:\exercicios\colecttions\estruturas_lineares\exercicio_6\bin\Debug\net7.0\exercicio_6.pdb
+E:\exercicios\colecttions\estruturas_lineares\exercicio_6\obj\Debug\net7.0\exercicio_6.dll
+E:\exercicios\colecttions\estruturas_lineares\exercicio_6\obj\Debug\net7.0\refint\exercicio_6.dll
+E:\exercicios\colecttions\estruturas_lineares\exercicio_6\obj\Debug\net7.0\exercicio_6.pdb
+E:\exercicios\colecttions\estruturas_lineares\exercicio_6\obj\Debug\net7.0\exercicio_6.genruntimeconfig.cache
+E:\exercicios\colecttions\estruturas_lineares\exercicio_6\obj\Debug\net7.0\ref\exercicio_6.dll

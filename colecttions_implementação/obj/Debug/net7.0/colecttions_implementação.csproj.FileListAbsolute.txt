@@ -1,0 +1,14 @@
+E:\exercicios\colecttions_implementação\bin\Debug\net7.0\colecttions_implementação.exe
+E:\exercicios\colecttions_implementação\bin\Debug\net7.0\colecttions_implementação.deps.json
+E:\exercicios\colecttions_implementação\bin\Debug\net7.0\colecttions_implementação.runtimeconfig.json
+E:\exercicios\colecttions_implementação\bin\Debug\net7.0\colecttions_implementação.dll
+E:\exercicios\colecttions_implementação\bin\Debug\net7.0\colecttions_implementação.pdb
+E:\exercicios\colecttions_implementação\obj\Debug\net7.0\colecttions_implementação.GeneratedMSBuildEditorConfig.editorconfig
+E:\exercicios\colecttions_implementação\obj\Debug\net7.0\colecttions_implementação.AssemblyInfoInputs.cache
+E:\exercicios\colecttions_implementação\obj\Debug\net7.0\colecttions_implementação.AssemblyInfo.cs
+E:\exercicios\colecttions_implementação\obj\Debug\net7.0\colecttions_implementação.csproj.CoreCompileInputs.cache
+E:\exercicios\colecttions_implementação\obj\Debug\net7.0\colecttions_implementação.dll
+E:\exercicios\colecttions_implementação\obj\Debug\net7.0\refint\colecttions_implementação.dll
+E:\exercicios\colecttions_implementação\obj\Debug\net7.0\colecttions_implementação.pdb
+E:\exercicios\colecttions_implementação\obj\Debug\net7.0\colecttions_implementação.genruntimeconfig.cache
+E:\exercicios\colecttions_implementação\obj\Debug\net7.0\ref\colecttions_implementação.dll

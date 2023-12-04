@@ -1,0 +1,5 @@
+E:\exercicios\algotirimos_ordenaçao_2\obj\Debug\net7.0\algotirimos_ordenaçao_2.csproj.AssemblyReference.cache
+E:\exercicios\algotirimos_ordenaçao_2\obj\Debug\net7.0\algotirimos_ordenaçao_2.GeneratedMSBuildEditorConfig.editorconfig
+E:\exercicios\algotirimos_ordenaçao_2\obj\Debug\net7.0\algotirimos_ordenaçao_2.AssemblyInfoInputs.cache
+E:\exercicios\algotirimos_ordenaçao_2\obj\Debug\net7.0\algotirimos_ordenaçao_2.AssemblyInfo.cs
+E:\exercicios\algotirimos_ordenaçao_2\obj\Debug\net7.0\algotirimos_ordenaçao_2.csproj.CoreCompileInputs.cache
